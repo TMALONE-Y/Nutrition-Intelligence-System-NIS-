@@ -30,6 +30,12 @@ This project applies real-world health formulas and data-driven logic to help us
 
 ---
 
+👨‍💻 Author
+
+Yazan Abushreefih
+Data Science Student
+
+---
 ## 🎯 Features
 
 - 🔹 BMR (Basal Metabolic Rate) calculation  
@@ -77,6 +83,15 @@ This project applies real-world health formulas and data-driven logic to help us
 
 ---
 
+⭐ Support
+
+If you like this project:
+
+Give it a ⭐ on GitHub
+Share your feedback
+Connect with me on LinkedIn
+
+---
 ## ▶️ How to Run
 
 ```bash
