@@ -33,6 +33,7 @@ This project applies real-world health formulas and data-driven logic to help us
 👨‍💻 Author
 
 Yazan Abushreefih
+
 Data Science Student
 
 ---
@@ -88,8 +89,12 @@ Data Science Student
 If you like this project:
 
 Give it a ⭐ on GitHub
+
 Share your feedback
+
 Connect with me on LinkedIn
+
+www.linkedin.com/in/yazan-abushreefih-260a16338
 
 ---
 ## ▶️ How to Run
