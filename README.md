@@ -1,7 +1,7 @@
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="assets/poster.png" alt="Nutrition Intelligence System Preview" width="700"/>
+  <img src="assets/poster.png" alt="Nutrition Intelligence System (NIS)" width="700"/>
 </p>
 
 # 🧠 Nutrition Intelligence System (NIS)
